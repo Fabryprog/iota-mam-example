@@ -1,4 +1,3 @@
-# Init
-- npm init
-- npm i mam.client.js --save
-- npm i iota.lib.js --save
+# iota-mam-example
+
+Visit my post: https://fabryprog.blogspot.com/2018/06/mam-ovvero-inviare-messaggi-attraverso.html
