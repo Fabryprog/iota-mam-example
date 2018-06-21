@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Fabryprog/iota-mam-example#readme",
   "dependencies": {
-    "iota.lib.js": "^0.4.7",
-    "mam.client.js": "^0.2.3"
+    "iota.lib.js": "^0.4.7"
   }
 }
